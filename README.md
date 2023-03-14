@@ -8,9 +8,9 @@
 Flutter web animated SignUp page, no external plugins.   
 
 <p align="middle">
-<div width="30%">
-<img src="https://github.com/jonathan1313/AnimatedSignUp/blob/master/assets/images/signup_page_example.gif" width="40%">
-<div width="30%">
+<div width="20%"></div>
+<img src="https://github.com/jonathan1313/AnimatedSignUp/blob/master/assets/images/signup_page_example.gif" width="60%">
+<div width="20%"></div>
 </p>
 
 ## Getting Started
