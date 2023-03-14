@@ -9,7 +9,7 @@ Flutter web animated SignUp page, no external plugins.
 
 <p align="middle">
 <div width="30%">
-<img src="https://github.com/jonathan1313/Ai-Image-Generation/blob/clean-arch/images-examples/text-generation-example.gif" width="40%">
+<img src="https://github.com/jonathan1313/AnimatedSignUp/blob/master/assets/images/signup_page_example.gif" width="40%">
 <div width="30%">
 </p>
 
